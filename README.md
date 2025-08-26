@@ -1,8 +1,8 @@
-# myBrainFuckInterpreter
+# myBFInterpreter
 
-## An interpreter and visualiser for Brainfuck programming language
+## An interpreter and visualiser for BF programming language
 
-Save your Brainfuck code in source.bf and run it
+Save your BF code in source.bf and run it
 
 To open the program in visualisation mode change
 `#define VISUALISE false` to `#define VISUALISE true`
